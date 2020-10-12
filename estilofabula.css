@@ -1,0 +1,49 @@
+.t1{
+	position: absolute;
+	font-family: DJB Letter Game Tiles;
+	font-size: 43px;
+	left: 43%;
+}
+
+
+.t2{
+	position: absolute;
+	top: 20%;
+	font-family: KG A Little Swag;
+	font-size: 100px;
+	left: 20%;
+	color: white;
+	background: #145A32;
+	width: 850px;
+	height: 360px;
+}
+
+.c{
+    background-color: #82E0AA ;
+    font-family: Paper flowers;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 38px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 48%;
+    top: 74%;
+    border-radius: 2px;
+    color: black;
+}
+.c:hover {
+background-color: #28B463;
+color: #17202A;
+}
+
+.f{
+	position: absolute;
+	width: 120px;
+	height: 110px;
+	top: 70%;
+	left: 37%;
+}
